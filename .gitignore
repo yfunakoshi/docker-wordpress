@@ -1,0 +1,6 @@
+# ignore vs code
+.vscode/*
+
+# WordPress Default Themes
+/app/themes/*
+!/app/themes/custom*
